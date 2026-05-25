@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👩🏻‍💻 Sofia Gobbi
 
-<!--
-**sofiagobbi/sofiagobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`estudante do Sesi Senai`**
 
-Here are some ideas to get you started:
+Me chamo Sofia Gobb1, tenho 15 anos. Estou no segundo ano do ensino médio no Colegio Sesi Senai de Florianópilis, com o curso integrado de desenvolvedora de sistemas e tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### 🤖 Linguagens que sei ou estou aprendendo a programar:
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
