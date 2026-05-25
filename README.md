@@ -1,34 +1,48 @@
-# 👩🏻‍💻 Sofia Gobbi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000&section=header"/>
 
-**`estudante do Sesi Senai`**
+<br>
 
-Me chamo Sofia Gobb1, tenho 15 anos. Estou no segundo ano do ensino médio no Colegio Sesi Senai de Florianópilis, com o curso integrado de desenvolvedora de sistemas e tecnologia.
+<div align="center">
+  <img align="center" height="150" src="image-3.png" />
+</div>
 
-___
+<div align="center">
+  
+  <b>`Sofia Gobbi`</b>
+</div>
 
-### 🤖 Linguagens que sei ou estou aprendendo a programar:
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=CA0000&center=true&width=620&lines=Bem+vindo+ao+meu+perfil!!;Estou+no+2%C2%B0+ano+do+Sesi+senai+integrado+com+o+curso;de+desenvolvedora+de+sistemas+e+tecnologia" alt="Typing SVG"/>
+</div>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Sofi_♡-darkred" />
+</div>
+      
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=sofiagobbi&rank_icon=github&show_icons=true&theme=dark&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=sofiagobbi&layout=compact&theme=dark&count_private=true">
+</div>
+
+<br>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=CA0000&center=true&width=620&lines=linguagens+que+sei+programar%3A" alt="Typing SVG"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+</div>
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000&section=footer"/>
+
